@@ -1,0 +1,49 @@
+footer {
+    background-color: black !important;
+    color: rgba(255, 255, 255, 0.6)!important;
+}
+footer a{
+    color:  rgba(255, 255, 255, 0.6);
+}
+footer a:hover {
+    color: #fff;
+}
+.fa-bars { 
+    color: rgba(255, 255, 255, 0.6);
+}
+.fa-bars:hover {
+    color: #fff;
+}
+.text-white-50 {
+    color: rgba(255, 255, 255, 0.7)!important;
+}
+#contact a{
+    color: black;
+}
+.asdf a{
+    /*border: 1px solid red;*/
+    margin: 0 auto;
+    width: 10em;
+}
+.asdf a:hover {
+    color: grey!important;
+}
+
+.btn-outline-light {
+    border-radius: 0%!important;
+    color: black!important;
+}
+.social a{
+    display: inline-flex;
+    width: 3.25rem;
+    height: 3.25rem;
+    font-size: 1.25rem;
+    justify-content: center;
+    align-items: center;
+    color: rgba(255, 255, 255, 0.6)!important;
+    background-color: black!important;
+}
+.social a:hover {
+    color: #fff!important;
+
+}
